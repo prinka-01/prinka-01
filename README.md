@@ -1,7 +1,7 @@
 ## Hi, I'm Priyanka Dhumal 👋
 👩‍💻 Software Tester | QA Engineer
 
-I am a detail-oriented Software Tester with hands-on experience in manual testing and quality assurance processes.
+I am a detail-oriented Software Tester with hands-on experience in software testing and quality assurance processes.
 I am passionate about identifying defects, improving software quality, and ensuring seamless user experiences.
 
 I am currently enhancing my skills in automation and API testing, and I use GitHub to showcase my testing work and projects.
