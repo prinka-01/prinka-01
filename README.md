@@ -32,11 +32,11 @@ Currently, I am strengthening my expertise in test automation frameworks, API te
 - Postman
 
 📂 What You’ll Find Here
-✔ Automation Framework (Selenium + Java + TestNG + POM)
-✔ Real-world Test Cases & Test Scenarios
-✔ Bug Reports & QA Documentation Samples
-✔ API Testing Practice Collections
-✔ CI/CD and Git-based automation projects
+ - Automation Framework (Selenium + Java + TestNG + POM)
+ - Real-world Test Cases & Test Scenarios
+ - Bug Reports & QA Documentation Samples
+ - API Testing Practice Collections
+ - CI/CD and Git-based automation projects
 
 🌱 Currently Learning
 CI/CD with Jenkins
