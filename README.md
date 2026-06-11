@@ -45,6 +45,6 @@ Git & Version Control Best Practices
 📫 Contact Me
 🔗LinkedIn: https://www.linkedin.com/in/priyanka-r-dhumal/
 📧Email: priyankadhumal28@gmail.com
-💻 GitHub: https://github.com/your-username
+💻 GitHub: https://github.com/prinka-01
 
 ⭐ I am actively seeking opportunities in QA / QA Automation / SDET roles, where I can contribute to delivering high-quality software through effective testing strategies and automation excellence.
